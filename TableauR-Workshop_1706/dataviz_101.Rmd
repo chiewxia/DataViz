@@ -165,7 +165,7 @@ ggplot(diamonds, aes(x = clarity, y = price, color = cut)) +
 
 
 Well done!
-If you want to learn more abut ggplot2, you can refer to this cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+If you want to learn more about ggplot2, you can refer to this cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
 This tutorial is made with <3 for WWCode Singapore Dataviz workshop (2017 Jun)
 
 
